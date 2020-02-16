@@ -25,3 +25,5 @@ function createGameDetails(json) {
   const description = document.querySelector(".description");
   description.innerHTML = json.description;
 }
+
+
